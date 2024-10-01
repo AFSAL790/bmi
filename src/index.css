@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "Outfit", sans-serif;
+  font-weight: 400;
+ 
+}
+body{
+  background-image: url('https://i.pinimg.com/564x/78/16/bd/7816bd1586b92133234b33b31e89600a.jpg');
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
